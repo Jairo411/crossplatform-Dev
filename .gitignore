@@ -1,0 +1,9 @@
+#Compiled 
+*.exe 
+*.class 
+*.o 
+
+
+#directories
+build/ 
+.vscode/
