@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/tutorial-binary.dir/tutorial.cxx.obj"
-  "CMakeFiles/tutorial-binary.dir/tutorial.cxx.obj.d"
-  "libtutorial-binary.dll.a"
-  "tutorial-binary.exe"
-  "tutorial-binary.exe.manifest"
+  "CMakeFiles/tutorial-binary.dir/tutorial.cxx.o"
+  "CMakeFiles/tutorial-binary.dir/tutorial.cxx.o.d"
+  "tutorial-binary"
   "tutorial-binary.pdb"
 )
 

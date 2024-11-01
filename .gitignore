@@ -1,0 +1,14 @@
+# Compiled source# 
+############### 
+*.class 
+*.dll
+*.exe 
+*.so 
+
+# A directory 
+##############
+build/ 
+.vscode/ 
+
+
+

@@ -1,3 +1,1 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\tutorial-binary.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\tutorial-binary.dir/objects.a @CMakeFiles\tutorial-binary.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\tutorial-binary.dir/objects.a -Wl,--no-whole-archive -o tutorial-binary.exe -Wl,--out-implib,libtutorial-binary.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tutorial-binary.dir\linkLibs.rsp
+/usr/bin/g++ -g -rdynamic CMakeFiles/tutorial-binary.dir/tutorial.cxx.o -o tutorial-binary 
