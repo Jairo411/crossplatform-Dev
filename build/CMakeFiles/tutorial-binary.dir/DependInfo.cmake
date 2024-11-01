@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/jairo/Desktop/Developer/C++_Projects/windows-crossplatform-Dev/tutorial.cxx" "CMakeFiles/tutorial-binary.dir/tutorial.cxx.o" "gcc" "CMakeFiles/tutorial-binary.dir/tutorial.cxx.o.d"
+  "C:/Users/jalbm/Desktop/Developer/cmake_playground/cmake-3.27.0-tutorials/Step1/tutorial.cxx" "CMakeFiles/tutorial-binary.dir/tutorial.cxx.obj" "gcc" "CMakeFiles/tutorial-binary.dir/tutorial.cxx.obj.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
