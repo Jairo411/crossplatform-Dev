@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/jalbm/Desktop/Developer/cmake_playground/cmake-3.27.0-tutorials/Step1/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tutorial-binary.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\tutorial-binary.dir\\tutorial.cxx.obj -c C:\\Users\\jalbm\\Desktop\\Developer\\cmake_playground\\cmake-3.27.0-tutorials\\Step1\\tutorial.cxx",
-  "file": "C:/Users/jalbm/Desktop/Developer/cmake_playground/cmake-3.27.0-tutorials/Step1/tutorial.cxx",
-  "output": "CMakeFiles/tutorial-binary.dir/tutorial.cxx.obj"
-}
-]
