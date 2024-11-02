@@ -1,0 +1,7 @@
+{
+    "java.dependency.syncWithFolderExplorer": false,
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "makefile.makefilePath": "build\\Makefile"
+}

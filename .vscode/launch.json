@@ -1,0 +1,23 @@
+{
+    "configurations": [{   
+    "name": "gdb run",
+    "program": "${workspaceFolder}/tutorial.exe",
+    "externalConsole":true,
+    "avoidWindowsConsoleRedirection":true,
+    "logging":{
+        "programOutput":true, 
+        "engineLogging":true,
+        "exceptions":true,
+    },
+    "type":"cppdbg",
+    "request":"launch",
+    "cwd": "${workspaceFolder}",
+    "linux": {
+      "MIMode": "gdb"  
+    },
+    "windows": {
+        "MIMode": "gdb"
+    }
+}
+]
+}
