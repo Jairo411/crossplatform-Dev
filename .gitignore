@@ -6,7 +6,8 @@
 
 #directories
 #ignore directory
-./build/ 
+build/ 
 #ignore contains inside directory
-./build/*
-.*
+build/*
+.vscode/
+.vscode/*
