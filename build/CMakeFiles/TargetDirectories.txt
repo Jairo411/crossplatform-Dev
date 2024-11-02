@@ -1,3 +1,0 @@
-/home/jairo/Desktop/Developer/C++_Projects/windows-crossplatform-Dev/build/CMakeFiles/tutorial-binary.dir
-/home/jairo/Desktop/Developer/C++_Projects/windows-crossplatform-Dev/build/CMakeFiles/edit_cache.dir
-/home/jairo/Desktop/Developer/C++_Projects/windows-crossplatform-Dev/build/CMakeFiles/rebuild_cache.dir
