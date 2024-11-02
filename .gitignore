@@ -5,5 +5,8 @@
 
 
 #directories
+#ignore directory
 build/ 
-.vscode/
+#ignore contains inside directory
+build/*
+.*
